@@ -1,0 +1,44 @@
+#landing {
+background:url("./images/Background.png");
+height:400;
+width:400;
+
+
+}
+#menu{
+font-family: Montserrat;
+font-size: 24px;
+font-weight: 900;
+line-height: 24px;
+}
+
+#navbar a{
+font-family: Montserrat, serif;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+
+
+}
+
+#projects
+{
+
+background:#FFF2E4;
+}
+
+#about{
+
+background: #FFFFFF;
+
+  font-family: "Merriweather", serif;
+  font-weight: 700;
+  font-style: normal;
+
+}
+
+#contact {
+
+background:url("./images/Background.png");
+
+}
