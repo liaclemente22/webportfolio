@@ -1,3 +1,10 @@
+#navbar{
+
+  background:#FBFBF9;
+
+
+}
+
 #landing {
 background:url("./images/Background.png");
 height:400;
@@ -7,25 +14,92 @@ width:400;
 }
 #menu{
 font-family: Montserrat;
-font-size: 24px;
+font-size: 25px !important;
 font-weight: 900;
 line-height: 24px;
+
 }
 
 #navbar a{
 font-family: Montserrat, serif;
-font-size: 16px;
+font-size: 18px;
 font-weight: 700;
 line-height: 24px;
 
 
+
 }
+#trainee-name{
+
+  color:#D2B48C ;
+}
+
+#profile img{
+    width:300px;
+    height:300px;
+   border: 5px solid ##FFFFFF; 
+  border-radius: 5px;
+  border-spacing: 2px;
+  border-shadow:5px;
+}
+
+#role{
+color:#3B2F2F;
+font-family: Montserrat, serif;
+font-weight: 600;
+}
+
 
 #projects
 {
-
-background:#FFF2E4;
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+  font-style: normal;
+background:#F3E8EA;
 }
+#developer{
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+#project1 {
+  display:inline-block;
+  width:480px;
+  height:500px;
+  
+}
+
+#project2 {
+  display:inline-block;
+  width:480px;
+  height:530px;
+  
+}
+
+#project3 {
+  display:inline-block;
+  width:480px;
+  height:500px;
+ 
+}
+
+#toolsTitle{
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+
+
+#tools img {
+
+  width:150px;
+
+}
+
 
 #about{
 
@@ -41,4 +115,30 @@ background: #FFFFFF;
 
 background:url("./images/Background.png");
 
+}
+
+#contactMe{
+  font-family: "Merriweather", serif;
+  font-weight: 600;
+  font-style: normal;
+
+
+
+}
+#contact img {
+  width:25px;
+}
+
+ iframe {
+      border: 5px solid #343a40; 
+      border-radius: 10px;      
+      width: 100%;            
+      max-width: 600px;        
+      height: 450px;          
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+      
+}
+
+#button {
+  background:#009999;
 }
